@@ -1,0 +1,13 @@
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.exe
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.deps.json
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.runtimeconfig.json
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.runtimeconfig.dev.json
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.dll
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\bin\Debug\netcoreapp3.1\proje3.pdb
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.csprojAssemblyReference.cache
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.AssemblyInfoInputs.cache
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.AssemblyInfo.cs
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.csproj.CoreCompileInputs.cache
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.dll
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.pdb
+C:\Users\t-okt\OneDrive\Masaüstü\dataporje3\proje3\proje3\obj\Debug\netcoreapp3.1\proje3.genruntimeconfig.cache
